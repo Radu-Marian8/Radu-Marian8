@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Radu-Marian
 - 👀 I’m interested in Front-End 
 - 🌱 I’m currently learning HTML/CSS/JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Novice Projects
 - 📫 How to reach me ...
 
 <!---
