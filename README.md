@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End 
 - 🌱 I’m currently learning HTML/CSS/JS
 - 💞️ I’m looking to collaborate on Novice Projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... radu8marian@yahoo.com
 
 <!---
 Radu-Marian8/Radu-Marian8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
